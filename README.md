@@ -38,22 +38,6 @@ All in all,, it was more time effective for
 to copy and paste alphabetical lists of food in 
 Txt files, but in the future I may improve the model.)
 
-.....................
-
-....APPLE............
-
-....,----./,----.....
-
-../--#-----------\...
-
-|-----------------|..
-
-.\----------------/..
-
-.. `._____,.____,'....
-
-......................
-
 Each food has an ascii art text file that roughly portrays 
 It. The program will give a generic food image for most 
 entries, but for the most common or unique foods it will
@@ -76,5 +60,22 @@ Future improvements: I have animations in txt files of each food
 Being eaten and ascii art graphics. Because python already 
 Supports most Japanese characters and special symbols like stars
 And hearts, I may make a python version as well using dictionaries.
+
+
+──────────────────────────────
+────────▀▄───▗▄▄▖─────────────
+───────▗▄▝▖─▗▛──▀▙▖───────────
+──────▟▀─▀▜▙█─────▀▖──────────
+─────▞▘────▀▘─██▌──▐▖─────────
+─────▌────────▝▀────▌─────────
+─────▌──────────▝▙──▌─────────
+─────▌───────────▛─▐──────────
+─────▐▖──────────▘─▞──────────
+──────▀▄──────────▗▘──────────
+───────▝▀▄▄▖───▗▄▀▘───────────
+───────────▀▝▀▀▘──────────────
+──────────────────────────────
+Hand drawn on https://thenerdshow.com/blocks.html
+
 
 */
