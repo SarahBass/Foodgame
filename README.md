@@ -30,22 +30,14 @@ Cleaner as you don't have to scroll past thousands of
 Entries of food. All in all,, it was more time effective for
 Myself to copy and paste alphabetical lists of food in 
 Txt files, but in the future I may improve the model.)
-  ,--./,-.
-  
- / #      \
- 
-|          |
-
- \        /
- 
-   `._,._,'
-
-  __
- '--`.
-    _|,--.
-   / `)   \
-   \      | generic fruit
-    '.___/
+..............
+....APPLE.....
+..,--./,-.....
+./-#------\...
+|----------|..
+.\---------/..
+..`._,._,'....
+..............
 
 Each food has an ascii art text file that roughly portrays 
 It. The program will give a generic food image for most 
