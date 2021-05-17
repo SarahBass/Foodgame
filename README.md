@@ -12,11 +12,17 @@ And symbols, removes plural and e endings, removes common
 Phrases, and then finally outputs a clean input.
 
 If you put in:
+
 *apple
+
 *A p P l
+
 *Apples 
+
 *Can I have apples?
+
 *I want 3 apples, please!!! 
+
 *I will have apple slices with milk. 
 
 One function will clean all of this input to "appl"
@@ -32,12 +38,19 @@ Myself to copy and paste alphabetical lists of food in
 Txt files, but in the future I may improve the model.)
 
 ..............
+
 ....APPLE.....
+
 ..,--./,-.....
+
 ./-#------\...
+
 |----------|..
+
 .\---------/..
+
 ..`._,._,'....
+
 ..............
 
 Each food has an ascii art text file that roughly portrays 
