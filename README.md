@@ -28,27 +28,33 @@ apple (with image, calories, and food group)
 
 ---------------------------------------------------
 1.  Main takes in your terminal input, runs it through a 
-function that turns the string into a lowercase version, removes numbers 
-and symbols, removes plural and e endings, removes common 
-Phrases, and then finally outputs a clean input string copy.
+function that turns the string into a lowercase version, 
+removes numbers  and symbols, removes plural and e endings, 
+removes common phrases, removes spaces,
+and then finally outputs a clean input string copy.
 
-2. Then it opens text files of arrays to check for 
-The clean input copy. Each .txt has hundreds of 
-food entries.
+2. Main calls a function to open text files of arrays to 
+check for the clean input copy. Each .txt has hundreds of 
+food entries in an organized list.
 
-3. Each food has an ascii art text file that roughly portrays 
-It. The program will give a generic food image for most 
-entries, but for the most common or unique foods it will
-Open a special ascii art using if statements to help it
+3. Each food has an ascii art text file.
+The program will give a generic food image for most 
+entries, but for the most unique foods, it will
+open a special ascii art using if statements to help it
 determine whether to use generic or special.
 
-4. When a food is not found, it is added to an array, and stored
-In a txt database, so that someone can better improve the model.
+4. When an input is not found, it is added to an array, and stored
+in a not-found txt database, to better improve the model. Upon
+next play, it will exist in this array and open a picture of a 
+generic blob that can be interpeted as a food item. 
 
 5. Each food has a calorie amount and points for food group.
+
 6. At the end, the program gives you the diagnostic on
 What foods you entered, your score, and a total calorie
-Count. 
+count. It asks you to for your name, and will add to a high 
+score array txt file, which will then print 5 previous players 
+and their score. 
 
 __________________________________________________________________
 
@@ -57,6 +63,6 @@ Being eaten and ascii art graphics. Because python already
 Supports most unicode symbols, I may make a python version as well
 using dictionaries. This program could be made more efficient with the
 use of mapping (the c++ equivalent to python dictonary- which will use
-constant time instead of operators to save computing time)
+constant time instead of operators to save computing time).
 
 */
