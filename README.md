@@ -51,8 +51,8 @@ generic blob that can be interpeted as a food item.
 5. Each food has a calorie amount and points for food group.
 
 6. At the end, the program gives you the diagnostic on
-What foods you entered, your score, and a total calorie
-count. It asks you to for your name, and will add to a high 
+what foods you entered, your score, and a total calorie
+count. It asks user for a scorename, and will add it to a high 
 score array txt file, which will then print 5 previous players 
 and their score. 
 
