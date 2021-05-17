@@ -1,10 +1,5 @@
 # Foodgame
 /*
-   ___               _     ___                     
-  / __\__   ___   __| |   / _ \__ _ _ __ ___   ___ 
- / _\/ _ \ / _ \ / _` |  / /_\/ _` | '_ ` _ \ / _ \
-/ / | (_) | (_) | (_| | / /_\\ (_| | | | | | |  __/
-\/   \___/ \___/ \__,_| \____/\__,_|_| |_| |_|\___|
 A c++ game I made when I learned how to read arrays, open files, 
 And clean input. No classes are used, only functions.
 Originally designed with flashing colors on windows and use of sleep
