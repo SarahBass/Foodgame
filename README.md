@@ -52,9 +52,7 @@ Count.
 
 __________________________________________________________________
 
-check out the  text file database of arrays of food, and the many 
-txt files that show a little image of food when printed in terminal.
-It is great library of information for anyone. 
+It is great library of .txt files! 
 
 ⌫ Future improvements: I have animations in txt files of each food
 Being eaten and ascii art graphics. Because python already 
