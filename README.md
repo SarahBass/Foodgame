@@ -3,7 +3,7 @@
 A C++ Text Art Game 
 ------------------------------------------------------------------------
 Originally designed with flashing colors on ⌭windows and use of sleep
-For animations. On the  Mac version it uses Usleep and a different 
+for animations. On the  Mac version it uses Usleep and a different 
 terminal color changing code. See commented sections for both versions.
 
 This game takes input, cleans it, and opens a txt ascii art file. 
@@ -65,4 +65,3 @@ using dictionaries. This program could be made more efficient with the
 use of mapping (the c++ equivalent to python dictonary- which will use
 constant time instead of operators to save computing time).
 
-*/
