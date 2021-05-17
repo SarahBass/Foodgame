@@ -31,10 +31,14 @@ Entries of food. All in all,, it was more time effective for
 Myself to copy and paste alphabetical lists of food in 
 Txt files, but in the future I may improve the model.)
   ,--./,-.
+  
  / #      \
+ 
 |          |
- \        /    apple
-  `._,._,'
+
+ \        /
+ 
+   `._,._,'
 
   __
  '--`.
