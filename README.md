@@ -1,7 +1,7 @@
 # Foodgame
-/*
-A c++ game 
-
+------------------------------------------------------------------------
+A C++ Text Art Game 
+------------------------------------------------------------------------
 Originally designed with flashing colors on windows and use of sleep
 For animations. On the Mac version it uses Usleep and a different 
 Terminal color changing code. See commented out sections
@@ -11,7 +11,7 @@ First it takes in your terminal input, turns it lowercase, removes numbers
 And symbols, removes plural and e endings, removes common 
 Phrases, and then finally outputs a clean input.
 
----------------------------------------------------
+-------------------------------------------------------------------------
 
 If you put in:
 
@@ -26,10 +26,10 @@ If you put in:
 *I want 3 apples, please!!! 
 
 *I will have apple slices with milk. 
+
 ---------------------------------------------------
 
-One function will clean all of this input to "appl"
-----------------------------------------------------
+One function will clean all of this input to "appl". 
 
 Then it opens text files of arrays to check for 
 The word apple. Each .txt has hundreds of 
