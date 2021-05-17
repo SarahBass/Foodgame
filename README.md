@@ -1,7 +1,7 @@
 # Foodgame
 /*
-A c++ game I made when I learned how to read arrays, open files, 
-And clean input. No classes are used, only functions.
+A c++ game 
+
 Originally designed with flashing colors on windows and use of sleep
 For animations. On the Mac version it uses Usleep and a different 
 Terminal color changing code. See commented out sections
@@ -10,6 +10,8 @@ Which include options for both.
 First it takes in your terminal input, turns it lowercase, removes numbers 
 And symbols, removes plural and e endings, removes common 
 Phrases, and then finally outputs a clean input.
+
+---------------------------------------------------
 
 If you put in:
 
@@ -24,34 +26,33 @@ If you put in:
 *I want 3 apples, please!!! 
 
 *I will have apple slices with milk. 
+---------------------------------------------------
 
 One function will clean all of this input to "appl"
+----------------------------------------------------
 
 Then it opens text files of arrays to check for 
 The word apple. Each .txt has hundreds of 
-food entries. (Yes, I could have used mapping/ dictionary 
-To make it more efficient, but it was much easier for me 
-To store the data this way, and keeps the program looking
-Cleaner as you don't have to scroll past thousands of 
-Entries of food. All in all,, it was more time effective for
-Myself to copy and paste alphabetical lists of food in 
+food entries. (Yes, I could have used c++mapping/ python dictionary.
+All in all,, it was more time effective for
+to copy and paste alphabetical lists of food in 
 Txt files, but in the future I may improve the model.)
 
-..............
+.....................
 
-....APPLE.....
+....APPLE............
 
-..,--./,-.....
+....,----./,----.....
 
-./-#------\...
+../--#-----------\...
 
-|----------|..
+|-----------------|..
 
-.\---------/..
+.\----------------/..
 
-..`._,._,'....
+.. `._____,.____,'....
 
-..............
+......................
 
 Each food has an ascii art text file that roughly portrays 
 It. The program will give a generic food image for most 
