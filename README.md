@@ -58,35 +58,6 @@ That show a little image of food.
 
 Future improvements: I have animations in txt files of each food
 Being eaten and ascii art graphics. Because python already 
-Supports most Japanese characters and special symbols like stars
-And hearts, I may make a python version as well using dictionaries.
-
-
-
-────────▀▄───▗▄▄▖─────────────
-
-───────▗▄▝▖─▗▛──▀▙▖───────────
-
-──────▟▀─▀▜▙█─────▀▖──────────
-
-─────▞▘────▀▘─██▌──▐▖─────────
-
-─────▌────────▝▀────▌─────────
-
-─────▌──────────▝▙──▌─────────
-
-─────▌───────────▛─▐──────────
-
-─────▐▖──────────▘─▞──────────
-
-──────▀▄──────────▗▘──────────
-
-───────▝▀▄▄▖───▗▄▀▘───────────
-
-───────────▀▝▀▀▘──────────────
-──────────────────────────────
-
-Hand drawn on https://thenerdshow.com/blocks.html
-
+Supports most unicode symbols, I may make a python version as well using dictionaries.
 
 */
