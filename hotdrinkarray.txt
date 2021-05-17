@@ -1,0 +1,17 @@
+20
+tea
+coffe
+espresso
+grog
+herbaltea
+hotchocolate
+hotcocoa
+cocoa
+irishcoffe
+salep
+chai
+coffee
+mocha
+cappuccino
+latt
+caf
